@@ -13,3 +13,4 @@ Datas files:
 - [Indiana SVI](Indiana.csv)
 - [Kansas SVI](Kansas.csv)
 - [NRI Census Tract](https://drive.google.com/file/d/1EWNaI6UZ8a-Y27VKmtzHR-BQy5jqC7qY/view?usp=drive_link)
+- [Shape File](https://drive.google.com/file/d/1QYmq7WnSISF5BeH9WdFemMMoPe9f05Ry/view?usp=drive_link)
