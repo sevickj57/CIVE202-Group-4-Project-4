@@ -3,7 +3,7 @@ Interpretation of data using data from Kansas and Indiana for Risk Averse, LLC f
 
 This Repository Contains the following files:
 - [Gantt chart](CIVE202_Spring2026_Group19_Project3_GanttChart.xls)
-- [Engineering_Timesheet](CIVE202_Spring2026_Group4_Project4_EngineeringTimesheet.csv)
+- [Engineering_Timesheet](CIVE202_Spring2026_Group4_Project4_EngineeringTimesheet.pdf)
 - [Scope of Work](CIVE202_Spring2026_Group19_Project3_SOW.docx)
 - [Project code document](CIVE202_Spring2026_Group4_Project4_PythonCode.ipynb)
 - [Annotated Code Document](CIVE202_Spring2026_Group4_Project4_AnnotatedCodeDocument.docx)
