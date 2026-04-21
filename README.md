@@ -1,5 +1,5 @@
 # CIVE202-Group-4-Project-4
-Interpretation of data using data from Kansas and Indiana for Risk Averse, LLC for our CIVE 202 Engineering Analysis II class. Data worked on was from the NRI Census Tract and Social Vulnerability Index from ASTDR. Work included the joining and managing of missing values in datasets, creating summary tables using a predetermined and created definition of risk, and the generation of maps utilizing the GeoPandas library
+Interpretation of data using data from Kansas and Indiana for Risk Averse, LLC for our CIVE 202 Engineering Analysis II class. Data worked on was from the NRI Census Tract and Social Vulnerability Index from ASTDR. Work included the joining and managing of missing values in datasets, creating summary tables using a predetermined and created definition of risk, and the generation of maps utilizing the GeoPandas library. Additionally, a Gantt chart, an engineering timesheet, a scope-of-work, an annotated coding document, the data files, and a final report were created and attached to the github page.
 
 This Repository Contains the following files:
 - [Gantt chart](CIVE202_Spring2026_Group19_Project3_GanttChart.xls)
