@@ -12,3 +12,4 @@ This Repository Contains the following files:
 Datas files:
 - [Indiana SVI](Indiana.csv)
 - [Kansas SVI](Kansas.csv)
+- [NRI Census Tract](https://drive.google.com/file/d/1EWNaI6UZ8a-Y27VKmtzHR-BQy5jqC7qY/view?usp=drive_link)
